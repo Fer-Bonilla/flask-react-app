@@ -1,2 +1,2 @@
-# flsk-react-app
+# flask react app
 Basic code for flask react application for  development tutorial
